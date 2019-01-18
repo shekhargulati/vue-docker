@@ -1,29 +1,3 @@
-# myapp
+# Dockerizing a Vue.js application
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The blog post accompanying this repository is [here](https://shekhargulati.com/2019/01/18/dockerizing-a-vue-js-application/).
